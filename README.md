@@ -7,9 +7,6 @@
 
 | 序号 | 包名 | 功能 |
 | :- | :- | :- |
-| 1 | luci-app-autoreboot | 定时重启 |
-| 2 | luci-app-firewall | 防火墙 |
-| 3 | luci-app-opkg | 软件包管理 |
 
 
 系统和网络工具：
