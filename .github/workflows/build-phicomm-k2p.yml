@@ -99,8 +99,8 @@ jobs:
 
         patch package/feeds/luci/luci-light/Makefile $GITHUB_WORKSPACE/patches/luci-light.patch
         patch package/feeds/luci/luci/Makefile $GITHUB_WORKSPACE/patches/luci.patch
-        patch -p1 < $GITHUB_WORKSPACE/patches/luci-mod-status.patch
-        patch -p1 < $GITHUB_WORKSPACE/patches/luci-mod-system.patch
+        patch -p2 < $GITHUB_WORKSPACE/patches/luci-mod-status.patch
+        patch -p2 < $GITHUB_WORKSPACE/patches/luci-mod-system.patch
 
     - name: load custom configuration
       run: |
