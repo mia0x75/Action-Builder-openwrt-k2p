@@ -11,16 +11,7 @@
 
 系统和网络工具：
 
-* whereis
-* sed
-* grep
-* less
-* dmesg
-* lsblk
-* blkid
-* iperf3
-* iftop
-* curl
+```whereis```, ```base64```, ```watch```, ```blkid```, ```bc```, ```diff```, ```lsblk```, ```lsof```, ```netcat```, ```nproc```, ```patch```, ```pkill```, ```pstree```, ```sha1sum```, ```sha256sum```, ```sha512sum```, ```tcpdump```, ```tcping```, ```tree```, ```whoami```, ```ethtool```, ```tcping```
 
 ## 主路由固件
 
@@ -44,34 +35,13 @@
 
 系统和网络工具：
 
-* dnsmasq-full
-* whereis
-* sed
-* grep
-* less
-* dmesg
-* vim
-* lsblk
-* blkid
-* tcping
-* socat
-* iperf3
-* iftop
-* httping
-* curl
+```whereis```, ```base64```, ```watch```, ```blkid```, ```bc```, ```diff```, ```lsblk```, ```lsof```, ```netcat```, ```nproc```, ```patch```, ```pkill```, ```pstree```, ```sha1sum```, ```sha256sum```, ```sha512sum```, ```tcpdump```, ```tcping```, ```tree```, ```whoami```, ```ethtool```, ```tcping```, ```vim```, ```socat```, ```iftop```, ```httping```, ```curl```
 
 其他所需功能都将以容器的形式存在，本固件不收录。这些功能包含但不限于：
 
-* vlmcsd
-* ddns-go
-* cloudflared
-* smartdns
-* qbittorrent
-* transmission
-* alist
-* ...
+```vlmcsd```, ```ddns-go```, ```cloudflared```, ```smartdns```, ```qbittorrent```, ```transmission```, ```alist```, ```...```
 
-测试中，待整理...
+测试中...
 <!--
 latest: v23.05.2
 -->
