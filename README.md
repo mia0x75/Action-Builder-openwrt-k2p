@@ -11,7 +11,7 @@
 
 系统和网络工具：
 
-```whereis```, ```base64```, ```watch```, ```blkid```, ```bc```, ```diff```, ```lsblk```, ```lsof```, ```netcat```, ```nproc```, ```patch```, ```pkill```, ```pstree```, ```sha1sum```, ```sha256sum```, ```sha512sum```, ```tcpdump```, ```tcping```, ```tree```, ```whoami```, ```ethtool```, ```tcping```
+```whereis```, ```base64```, ```watch```, ```blkid```, ```bc```, ```diff```, ```lsblk```, ```lsof```, ```netcat```, ```nproc```, ```patch```, ```pkill```, ```pstree```, ```sha1sum```, ```sha256sum```, ```sha512sum```, ```tcpdump```, ```tcping```, ```tree```, ```whoami```, ```ethtool```, ```tcping```, ```...```
 
 ## 主路由固件
 
@@ -35,7 +35,7 @@
 
 系统和网络工具：
 
-```whereis```, ```base64```, ```watch```, ```blkid```, ```bc```, ```diff```, ```lsblk```, ```lsof```, ```netcat```, ```nproc```, ```patch```, ```pkill```, ```pstree```, ```sha1sum```, ```sha256sum```, ```sha512sum```, ```tcpdump```, ```tcping```, ```tree```, ```whoami```, ```ethtool```, ```tcping```, ```vim```, ```socat```, ```iftop```, ```httping```, ```curl```
+```whereis```, ```base64```, ```watch```, ```blkid```, ```bc```, ```diff```, ```lsblk```, ```lsof```, ```netcat```, ```nproc```, ```patch```, ```pkill```, ```pstree```, ```sha1sum```, ```sha256sum```, ```sha512sum```, ```tcpdump```, ```tcping```, ```tree```, ```whoami```, ```ethtool```, ```tcping```, ```vim```, ```socat```, ```iftop```, ```httping```, ```curl```, ```...```
 
 其他所需功能都将以容器的形式存在，本固件不收录。这些功能包含但不限于：
 
